@@ -1,0 +1,16 @@
+{
+  "token" : "Discord Token",
+  "oauthBot" : "oauth of the Twitch Bot",
+  "tokenBot" : "Discord Toker of the bot",
+  "oauthStreameur" : "oauth of the Streamer",
+  "channelTwitch" : "Name Of Your Twitch Channel",
+  "nameBotTwitch" : "Name of your Twitch bot",
+  "twitterCKey" : "Twitter Consumer Key",
+  "twitterCSecret" : "Twitter Consumer secret",
+  "twitterTokenKey" : "Token Key Twitter",
+  "twitterTokenSecret" : "Secret Token Twitter",
+  "prefixTwitch" : "!",
+  "prefixDiscord" : ".",
+  "allowLog" : true,
+  "channelDiscord" : "Channel Id Of Discord Channel"
+}
